@@ -1,3 +1,5 @@
+CFLAGS = -Wall
+
 all: powervirus
 
 powervirus: powervirus.c
